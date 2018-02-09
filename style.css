@@ -17,3 +17,13 @@
     width: 100px;
     border: 1px solid turquoise;
 }
+
+.red-square {
+    position: absolute;
+    top: 200px;
+    background: red;
+
+    height: 30px;
+    width: 30px;
+    border: 2px solid pink;
+}
