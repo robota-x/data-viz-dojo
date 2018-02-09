@@ -1,0 +1,19 @@
+.visualisation-container {
+    width: 100%;
+    height: 470px;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    position: relative;
+    margin-top: 10px;
+}
+
+#not-red-square {
+    position: absolute;
+    left: 600px;
+    top: 200px;
+    background: teal;
+
+    height: 100px;
+    width: 100px;
+    border: 1px solid turquoise;
+}
